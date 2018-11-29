@@ -1,1 +1,0 @@
-# Simple-crack-for-word2010-
