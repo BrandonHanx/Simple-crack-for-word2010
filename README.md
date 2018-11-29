@@ -1,7 +1,5 @@
-*******************************************************
-*Project1 of Computer organization and design,ISEE ZJU*
-*******************************************************
-*                 Han,Xiao   3160101136               *
+# Project1 of Computer organization and design, ISEE ZJU
+
 *******************************************************
 
 This document provides the following information to properly run the WordCrak.cpp program:
